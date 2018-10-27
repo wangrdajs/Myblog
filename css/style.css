@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+ul {
+    list-style: none;
+}
+body {
+    background: -webkit-linear-gradient(top left, #ffd0ff, #9f35ff);
+    font: 14px/1.5 Arial;
+    color: #fff;
+    text-align: center;
+}
+
+
+
+/* 头部 */
+
+/* 标题 */
+h1 {
+    font-size: 42px; 
+    margin-top: 30px;
+}
+
+/* 描述 */
+.intro {
+    color: #fcfcfc;
+}
+.intro,
+.nav,
+.preview {
+    margin-top: 40px;
+}
+
+/* 导航 */
+.nav>li {
+    display: inline-block;
+}
+.item {
+    display: inline-block;
+    padding: 10px 20px;
+    background: -webkit-linear-gradient(top left, #02f78e, #01b468);
+    color: #fff;
+    border-radius: 2px;
+    margin-left: 10px; 
+}
+.ano {
+    margin-right: 10px;
+}
+
+
+/* 主体 */
+
+/* 宣传画 */
+.preview {
+    text-align: center;
+}
+.preview>img {
+    width: 500px;
+}
+
+/* 按钮 */
+.btn {
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+/* 脚注 */
+#footer {
+    color: #fff;
+    margin: 30px 0 30px 0;
+}
