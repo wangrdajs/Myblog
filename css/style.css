@@ -11,7 +11,7 @@ ul {
     list-style: none;
 }
 body {
-    background: -webkit-linear-gradient(top left, #ffd0ff, #9f35ff);
+    background: -webkit-linear-gradient(top left, #aaaaff, #4a4aff);
     font: 14px/1.5 Arial;
     color: #fff;
     text-align: center;
@@ -44,7 +44,7 @@ h1 {
 .item {
     display: inline-block;
     padding: 10px 20px;
-    background: -webkit-linear-gradient(top left, #aaaaff, #4a4aff);
+    background: -webkit-linear-gradient(top left, #02f78e, #01b468);
     color: #fff;
     border-radius: 2px;
     margin-left: 10px; 
